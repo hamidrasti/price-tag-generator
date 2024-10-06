@@ -2,6 +2,10 @@
 
 This Python project generates price tags based on product details from an Excel file. The tags include product titles, prices, and coupon prices, and are saved as images. The project leverages `Pillow`, `Pandas`, and `openpyxl` libraries to handle image creation and data extraction.
 
+## Sample Output
+
+![Sample Price Tag](assets/sample_output.png)
+
 ## Features
 - Automatically reads product data from an Excel file (`input.xlsx`).
 - Creates price tags with product titles, original prices, and discounted coupon prices.
